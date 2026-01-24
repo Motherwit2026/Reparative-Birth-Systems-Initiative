@@ -889,7 +889,7 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
                 </div>
                 <div style="display: grid; grid-template-columns: 200px 1fr; gap: 1rem; align-items: start;">
                     <strong>Target Budget:</strong>
-                    <span>$385,000</span>
+                    <span>TBD</span>
                 </div>
                 <div style="display: grid; grid-template-columns: 200px 1fr; gap: 1rem; align-items: start;">
                     <strong>Location:</strong>
@@ -1072,7 +1072,7 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
             <div style="background: var(--cream); padding: 2.5rem; margin-top: 3rem; max-width: 700px; margin-left: auto; margin-right: auto;">
                 <h3 style="font-family: 'Cormorant', serif; font-size: 1.8rem; margin-bottom: 1.5rem; color: var(--deep-earth);">Project Information</h3>
                 <p style="margin-bottom: 1rem;"><strong>Project Timeline:</strong> 36 Months</p>
-                <p style="margin-bottom: 1rem;"><strong>Target Budget:</strong> $TBD</p>
+                <p style="margin-bottom: 1rem;"><strong>Target Budget:</strong> TBD</p>
                 <p style="margin-bottom: 1rem;"><strong>Geographic Focus:</strong> Virginia (with replication potential)</p>
                 <p style="margin-top: 1.5rem;"><strong>Fiscal Sponsor:</strong> Elephant Circle (MOU 1/26/2026)</p>
             </div>
@@ -1087,7 +1087,7 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
                     Motherwit Akoma Services, LLC dba Motherwit Birth Services
                 </div>
                 <div class="contact-item">
-                    <strong>Email:</strong> <a href="mailto:RBSI@motherwitbirthservices.com">RBSI@motherwitbirthservices.com</a>
+                    <strong>Email:</strong> <a href="/cdn-cgi/l/email-protection#653727362c25080a110d0017120c11070c17110d160017130c0600164b060a08"><span class="__cf_email__" data-cfemail="eebcacbda7ae83819a868b9c99879a8c879c9a869d8b9c98878d8b9dc08d8183">[email&#160;protected]</span></a>
                 </div>
                 <div class="contact-item">
                     <strong>Phone:</strong> <a href="tel:434-202-4207">434-202-4207</a>
@@ -1110,7 +1110,3 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
 
     <footer>
         <p style="font-family: 'Cormorant', serif; font-size: 1.5rem; margin-bottom: 1rem;">
-            Reparative Birth Systems Initiative
-        </p>
-        <p>Community-Governed Knowledge & Policy Infrastructure for Birth Justice</p>
-        <p style="margin        
