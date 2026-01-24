@@ -1072,7 +1072,7 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
             <div style="background: var(--cream); padding: 2.5rem; margin-top: 3rem; max-width: 700px; margin-left: auto; margin-right: auto;">
                 <h3 style="font-family: 'Cormorant', serif; font-size: 1.8rem; margin-bottom: 1.5rem; color: var(--deep-earth);">Project Information</h3>
                 <p style="margin-bottom: 1rem;"><strong>Project Timeline:</strong> 36 Months</p>
-                <p style="margin-bottom: 1rem;"><strong>Target Budget:</strong> $575,000</p>
+                <p style="margin-bottom: 1rem;"><strong>Target Budget:</strong> $TBD</p>
                 <p style="margin-bottom: 1rem;"><strong>Geographic Focus:</strong> Virginia (with replication potential)</p>
                 <p style="margin-top: 1.5rem;"><strong>Fiscal Sponsor:</strong> Elephant Circle (MOU 1/26/2026)</p>
             </div>
