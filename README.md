@@ -838,50 +838,53 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
     </section>
 
     <section id="future-research" style="background: linear-gradient(135deg, rgba(255, 107, 107, 0.08), rgba(255, 195, 113, 0.08)); position: relative;">
-        <h2 class="section-title">Future Community-Owned Research</h2>
+        <h2 class="section-title">Proposed Future Community-Owned Research</h2>
         <p class="section-subtitle">Expanding the Reparative Birth Evidence Network</p>
 
         <div style="background: var(--warm-white); padding: 3rem; border-left: 5px solid var(--vibrant-coral); margin-bottom: 3rem;">
+            <div style="background: var(--vibrant-orange); color: white; display: inline-block; padding: 0.5rem 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.9rem; margin-bottom: 1.5rem;">
+                Proposed Project - Seeking Funding
+            </div>
             <h3 style="font-family: 'Cormorant', serif; font-size: 2.5rem; color: var(--deep-earth); margin-bottom: 1rem;">
                 Charlottesville Maternal Housing Instability Community Assessment
             </h3>
             <p style="font-size: 1.1rem; color: var(--earth-clay); font-weight: 500; margin-bottom: 1.5rem;">
-                A Reparative Birth Evidence Network Study
+                A Planned Reparative Birth Evidence Network Study
             </p>
             <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1rem;">
-                This groundbreaking 18-month community assessment documents how Charlottesville's 25-year housing crisis—rooted in historic Black displacement through urban renewal and intensified by gentrification—creates a predictable and preventable risk environment for pregnant and postpartum people, especially Black women.
+                This proposed 18-month community assessment would document how Charlottesville's 25-year housing crisis—rooted in historic Black displacement through urban renewal and intensified by gentrification—creates a predictable and preventable risk environment for pregnant and postpartum people, especially Black women.
             </p>
             <p style="font-size: 1.1rem; line-height: 1.8;">
-                Using the RBEN framework, this study positions pregnant and postpartum people who have experienced housing instability as primary knowledge producers rather than research subjects. The Survivor Advisory Circle owns all data, leads all analysis, and controls all dissemination.
+                Using the RBEN framework, this study would position pregnant and postpartum people who have experienced housing instability as primary knowledge producers rather than research subjects. The Survivor Advisory Circle would own all data, lead all analysis, and control all dissemination.
             </p>
         </div>
 
         <div class="problem-grid">
             <div class="problem-card">
                 <h3>The 9-Domino Effect Framework</h3>
-                <p>The study documents the complete sequence from generational housing displacement through pregnancy-work conflicts to birth harm and intergenerational continuation—demonstrating that housing instability during pregnancy is not merely an economic stressor but a documented contributor to adverse birth outcomes that falls disproportionately on Black women.</p>
+                <p>The study would document the complete sequence from generational housing displacement through pregnancy-work conflicts to birth harm and intergenerational continuation—demonstrating that housing instability during pregnancy is not merely an economic stressor but a documented contributor to adverse birth outcomes that falls disproportionately on Black women.</p>
             </div>
 
             <div class="problem-card">
                 <h3>Community Knowledge Sovereignty</h3>
-                <p>Survivor Advisory Circle (8-12 pregnant/postpartum people who experienced housing instability) has final decision-making power over research questions, data collection, analysis, dissemination, and all partnerships. Community members are the primary knowledge producers, not research subjects.</p>
+                <p>A proposed Survivor Advisory Circle (8-12 pregnant/postpartum people who experienced housing instability) would have final decision-making power over research questions, data collection, analysis, dissemination, and all partnerships. Community members would be the primary knowledge producers, not research subjects.</p>
             </div>
 
             <div class="problem-card">
                 <h3>Revolutionary Research Design</h3>
-                <p>Employs Sacred Story Circles, in-depth interviews, community photovoice, and birth outcomes analysis—all led by those most impacted. This is not research ON communities. This is knowledge BY communities. This is power building through truth-telling.</p>
+                <p>Would employ Sacred Story Circles, in-depth interviews, community photovoice, and birth outcomes analysis—all led by those most impacted. This is not research ON communities. This is knowledge BY communities. This is power building through truth-telling.</p>
             </div>
         </div>
 
         <div style="margin-top: 4rem; background: var(--cream); padding: 3rem; max-width: 900px; margin-left: auto; margin-right: auto;">
-            <h3 style="font-family: 'Cormorant', serif; font-size: 2rem; margin-bottom: 1.5rem; color: var(--deep-earth);">Study Overview</h3>
+            <h3 style="font-family: 'Cormorant', serif; font-size: 2rem; margin-bottom: 1.5rem; color: var(--deep-earth);">Proposed Study Overview</h3>
             <div style="display: grid; gap: 1.5rem;">
                 <div style="display: grid; grid-template-columns: 200px 1fr; gap: 1rem; align-items: start;">
                     <strong>Framework Author:</strong>
                     <span>Lisa N. Brown, Reparative Birth Systems Initiative</span>
                 </div>
                 <div style="display: grid; grid-template-columns: 200px 1fr; gap: 1rem; align-items: start;">
-                    <strong>Study Timeline:</strong>
+                    <strong>Proposed Timeline:</strong>
                     <span>18 Months</span>
                 </div>
                 <div style="display: grid; grid-template-columns: 200px 1fr; gap: 1rem; align-items: start;">
@@ -893,8 +896,12 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
                     <span>Charlottesville/Albemarle County, Virginia</span>
                 </div>
                 <div style="display: grid; grid-template-columns: 200px 1fr; gap: 1rem; align-items: start;">
-                    <strong>Core Methods:</strong>
+                    <strong>Proposed Methods:</strong>
                     <span>Sacred Story Circles, In-Depth Interviews, Community Photovoice, Provider Stakeholder Interviews, Quantitative Survey, Birth Outcomes Analysis</span>
+                </div>
+                <div style="display: grid; grid-template-columns: 200px 1fr; gap: 1rem; align-items: start;">
+                    <strong>Status:</strong>
+                    <span style="color: var(--vibrant-orange); font-weight: 600;">Seeking Funding - Framework Complete, Ready for Implementation</span>
                 </div>
             </div>
         </div>
@@ -937,64 +944,46 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
 
         <div style="margin-top: 3rem; text-align: center;">
             <p style="font-size: 1.2rem; margin-bottom: 1.5rem; color: var(--deep-earth);">
-                This study establishes Charlottesville as a national model for community-controlled research on housing and maternal health, creating an irrefutable case for systems change while building infrastructure for ongoing community knowledge sovereignty.
+                This study would establish Charlottesville as a national model for community-controlled research on housing and maternal health, creating an irrefutable case for systems change while building infrastructure for ongoing community knowledge sovereignty.
             </p>
         </div>
 
-        <div style="margin-top: 4rem; background: var(--cream); padding: 3rem; border-left: 5px solid var(--vibrant-orange);">
-            <h3 style="font-family: 'Cormorant', serif; font-size: 2.2rem; color: var(--deep-earth); margin-bottom: 1.5rem;">
-                Potential Pilot Program: Maternal Housing Sanctuary
-            </h3>
-            <p style="font-size: 1.1rem; color: var(--earth-clay); font-weight: 500; margin-bottom: 1.5rem;">
-                A Community-Controlled Initiative Following the Research
-            </p>
-            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1rem;">
-                Following the community assessment, the Maternal Housing Sanctuary Pilot Program would establish Charlottesville as Virginia's first community where pregnant and postpartum people are protected from housing displacement during the critical perinatal period.
-            </p>
-            <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
-                Grounded in evidence that housing instability during pregnancy increases risk of preterm birth by 73%, NICU admission by 64%, and low birth weight by similar margins, this pilot would create a replicable model for birth equity through housing justice.
-            </p>
-
-            <div style="background: var(--warm-white); padding: 2rem; margin-top: 2rem;">
-                <h4 style="font-family: 'Cormorant', serif; font-size: 1.6rem; margin-bottom: 1rem; color: var(--deep-earth);">Core Program Components</h4>
-                <ul style="line-height: 2; margin-left: 1.5rem;">
-                    <li><strong>Protected Class Status:</strong> Establish pregnant and postpartum people (through 12 months) as protected class for housing stability interventions</li>
-                    <li><strong>Mandatory Eviction Diversion:</strong> Landlords must complete diversion process before filing eviction against pregnant/postpartum tenant</li>
-                    <li><strong>Emergency Rental Assistance:</strong> Up to $7,000 per household covering arrears and forward rent during maternity period</li>
-                    <li><strong>Birth-Centered Housing Navigation:</strong> Community health workers with doula training embedded in prenatal care settings</li>
-                    <li><strong>Legal Support:</strong> Free representation in eviction proceedings for pregnant/postpartum tenants</li>
-                    <li><strong>Landlord Partnership Program:</strong> Incentives and support for housing providers maintaining stable housing for maternal households</li>
-                </ul>
-            </div>
-
-            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 2rem;">
-                <div>
-                    <p style="font-size: 2.5rem; font-family: 'Cormorant', serif; color: var(--vibrant-coral); font-weight: 600; margin-bottom: 0.5rem;">24</p>
-                    <p style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--life-green);">Month Pilot</p>
-                </div>
-                <div>
-                    <p style="font-size: 2.5rem; font-family: 'Cormorant', serif; color: var(--vibrant-coral); font-weight: 600; margin-bottom: 0.5rem;">150-200</p>
-                    <p style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--life-green);">Households Protected Annually</p>
-                </div>
-                <div>
-                    <p style="font-size: 2.5rem; font-family: 'Cormorant', serif; color: var(--vibrant-coral); font-weight: 600; margin-bottom: 0.5rem;">$2.4M</p>
-                    <p style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--life-green);">3-Year Budget</p>
-                </div>
-            </div>
-
-            <div style="margin-top: 2rem; padding: 2rem; background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(255, 195, 113, 0.1));">
-                <p style="font-size: 1.1rem; font-style: italic; color: var(--deep-earth); line-height: 1.8;">
-                    This program represents a fundamental reframing: housing stability during pregnancy and postpartum is not a luxury or individual responsibility—it is a birth equity imperative with direct, measurable impacts on maternal and infant health.
+        <div style="margin-top: 4rem; background: linear-gradient(135deg, var(--life-green) 0%, var(--sacred-gold) 100%); padding: 0.5rem;">
+            <div style="background: var(--warm-white); padding: 3rem;">
+                <h3 style="font-family: 'Cormorant', serif; font-size: 2.5rem; color: var(--deep-earth); margin-bottom: 1.5rem; text-align: center;">
+                    Vision: Charlottesville as a Maternal Sanctuary City
+                </h3>
+                <p style="font-size: 1.2rem; line-height: 1.8; margin-bottom: 1.5rem; color: var(--earth-clay); font-style: italic; text-align: center;">
+                    "A community commitment to protecting pregnant and postpartum people from the harm of housing instability"
                 </p>
-            </div>
+                <div style="background: var(--cream); padding: 2.5rem; margin-top: 2rem;">
+                    <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
+                        The community assessment findings would lay the groundwork for Charlottesville to become Virginia's first <strong>Maternal Sanctuary City</strong>—a community where pregnant and postpartum people are recognized as deserving special protection from housing displacement during the critical perinatal period.
+                    </p>
+                    <p style="font-size: 1.1rem; line-height: 1.8; margin-bottom: 1.5rem;">
+                        This vision represents a fundamental reframing: housing stability during pregnancy and postpartum is not a luxury or individual responsibility—it is a <strong>birth equity imperative</strong> with direct, measurable impacts on maternal and infant health.
+                    </p>
+                    
+                    <div style="margin-top: 2rem; padding: 2rem; background: white; border-left: 5px solid var(--life-green);">
+                        <h4 style="font-family: 'Cormorant', serif; font-size: 1.6rem; color: var(--rben-purple); margin-bottom: 1rem;">What a Maternal Sanctuary City Could Look Like</h4>
+                        <ul style="line-height: 2; margin-left: 1.5rem;">
+                            <li><strong>Protected Status:</strong> Pregnant and postpartum people (through 12 months) recognized as a protected class requiring specialized housing interventions</li>
+                            <li><strong>Community Commitment:</strong> City/County resolution affirming community responsibility for maternal housing stability</li>
+                            <li><strong>Prevention-Focused:</strong> Proactive support systems that prevent housing crises before they harm birth outcomes</li>
+                            <li><strong>Community-Led Solutions:</strong> Interventions designed by those most impacted, accountable to community priorities</li>
+                            <li><strong>Cultural Shift:</strong> Eviction during pregnancy recognized as birth violence requiring community response</li>
+                        </ul>
+                    </div>
 
-            <div style="margin-top: 2rem;">
-                <h4 style="font-family: 'Cormorant', serif; font-size: 1.6rem; margin-bottom: 1rem; color: var(--deep-earth);">Community Knowledge Sovereignty in Program Design</h4>
-                <p style="font-size: 1.05rem; line-height: 1.8; margin-bottom: 1rem;">
-                    The pilot program would continue RBEN principles through quarterly Sacred Story Circles, community data stewardship, and the Community Research Cooperative governing all program decisions. Those most impacted by the intersection of housing crisis and pregnancy would lead solution design, implementation, and evaluation.
-                </p>
-                <p style="font-size: 1.05rem; line-height: 1.8;">
-                    Charlottesville would become Virginia's first Maternal Sanctuary City—a model of what birth equity looks like when we address the root causes of maternal health disparities, with findings providing the evidence base to transform policy across Virginia and beyond.
+                    <div style="margin-top: 2rem; padding: 2rem; background: rgba(105, 123, 91, 0.1);">
+                        <p style="font-size: 1.1rem; line-height: 1.8; font-weight: 600; color: var(--deep-earth);">
+                            The community assessment would provide the evidence base for this vision, documenting the harms of housing instability while centering community wisdom about solutions. Whether through policy change, community programs, or cultural transformation, the goal is clear: <strong>no birthing person in Charlottesville should face housing displacement during pregnancy or the first year postpartum.</strong>
+                        </p>
+                    </div>
+                </div>
+
+                <p style="margin-top: 2rem; font-size: 1.15rem; line-height: 1.8; text-align: center; font-style: italic; color: var(--earth-clay);">
+                    From community-controlled research to community-determined action—building the future where birth equity and housing justice are inseparable.
                 </p>
             </div>
         </div>
@@ -1098,10 +1087,10 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
                     Motherwit Akoma Services, LLC dba Motherwit Birth Services
                 </div>
                 <div class="contact-item">
-                    <strong>Email:</strong> <a href="/cdn-cgi/l/email-protection#7f13160c1e3f12100b171a0d08160b1d160d0b170c1a0d09161c1a0c511c1012"><span class="__cf_email__" data-cfemail="610d081200210c0e15090413160815030813150912041317080204124f020e0c">[email&#160;protected]</span></a>
+                    <strong>Email:</strong> <a href="mailto:RBSI@motherwitbirthservices.com">RBSI@motherwitbirthservices.com</a>
                 </div>
                 <div class="contact-item">
-                    <strong>Phone:</strong> <a href="tel:434-466-8849">434-466-8849</a>
+                    <strong>Phone:</strong> <a href="tel:434-202-4207">434-202-4207</a>
                 </div>
             </div>
 
@@ -1124,4 +1113,4 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
             Reparative Birth Systems Initiative
         </p>
         <p>Community-Governed Knowledge & Policy Infrastructure for Birth Justice</p>
-        <p style="margin
+        <p style="margin        
