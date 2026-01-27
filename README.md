@@ -1074,7 +1074,7 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
                 <p style="margin-bottom: 1rem;"><strong>Project Timeline:</strong> 36 Months</p>
                 <p style="margin-bottom: 1rem;"><strong>Target Budget:</strong> TBD</p>
                 <p style="margin-bottom: 1rem;"><strong>Geographic Focus:</strong> Virginia (with replication potential)</p>
-                <p style="margin-top: 1.5rem;"><strong>Fiscal Sponsor:</strong> Elephant Circle (MOU 1/26/2026)</p>
+                <p style="margin-top: 1.5rem;"><strong>Fiscal Sponsor:</strong> Elephant Circle (1/26/2026)</p>
             </div>
 
             <div class="contact-info">
