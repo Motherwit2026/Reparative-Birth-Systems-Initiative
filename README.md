@@ -1079,12 +1079,12 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
 
             <div class="contact-info">
                 <div class="contact-item">
-                    <strong>Project Director</strong><br>
+                    <strong>Founder & Framework Author</strong><br>
                     Lisa N. Brown
                 </div>
                 <div class="contact-item">
                     <strong>Organization</strong><br>
-                    Motherwit Akoma Services, LLC dba Motherwit Birth Services
+                    Motherwit Akoma Services, LLC 
                 </div>
                 <div class="contact-item">
                     <strong>Email:</strong> <a href="/cdn-cgi/l/email-protection#653727362c25080a110d0017120c11070c17110d160017130c0600164b060a08"><span class="__cf_email__" data-cfemail="eebcacbda7ae83819a868b9c99879a8c879c9a869d8b9c98878d8b9dc08d8183">[email&#160;protected]</span></a>
