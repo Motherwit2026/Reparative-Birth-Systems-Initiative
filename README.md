@@ -1074,7 +1074,7 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
                 <p style="margin-bottom: 1rem;"><strong>Project Timeline:</strong> 36 Months</p>
                 <p style="margin-bottom: 1rem;"><strong>Target Budget:</strong> TBD</p>
                 <p style="margin-bottom: 1rem;"><strong>Geographic Focus:</strong> Virginia (with replication potential)</p>
-                <p style="margin-top: 1.5rem;"><strong>Fiscal Sponsor:</strong> Elephant Circle (1/26/2026)</p>
+                
             </div>
 
             <div class="contact-info">
@@ -1083,8 +1083,8 @@ Community-Governed Knowledge &amp; Policy Infrastructure for Birth Justice Empow
                     Lisa N. Brown
                 </div>
                 <div class="contact-item">
-                    <strong>Organization</strong><br>
-                    Motherwit Akoma Services, LLC 
+                     <p style="margin-top: 1.5rem;"><strong>Fiscal Sponsor:</strong> Elephant Circle</p>
+                    
                 </div>
                 <div class="contact-item">
                     <strong>Email:</strong> <a href="/cdn-cgi/l/email-protection#653727362c25080a110d0017120c11070c17110d160017130c0600164b060a08"><span class="__cf_email__" data-cfemail="eebcacbda7ae83819a868b9c99879a8c879c9a869d8b9c98878d8b9dc08d8183">[email&#160;protected]</span></a>
